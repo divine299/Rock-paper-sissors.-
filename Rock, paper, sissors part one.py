@@ -1,4 +1,4 @@
- I am tryna create the popular rock, paper, sissors game.
+ # am tryna create the popular rock, paper, sissors game.
 user_one_name = input ("Hey! You player one. What is your name? ")
 user_two_name = input ("Hey! You player two . What is your name? ")
 print()
